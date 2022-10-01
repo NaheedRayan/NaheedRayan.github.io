@@ -2,24 +2,27 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Student at <a href=https://jnu.ac.bd/ >Jagannath University</a>, Dhaka
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: naheed1.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
-
+    <p>Dhaka</p>
+    <p>Bangladesh</p>
+  
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
+posts: true 
+
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+> “Tell me and I forget.  Teach me and I remember.  Involve me and I learn.”
+— Benjamin Franklin
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I am an optimistic cs student who loves this shit and `Competitive Programming`. A passionate Full Stack Software Developer 🚀 having an experience of building Web and Mobile applications with `JavaScript / Reactjs / Nodejs / Flutter / Flask / Shell` and some other cool libraries and frameworks.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+In the field of `AI` I have also dipped my hand. The most fun thing in this aspect is its challenging and helps us to see the world in a new perspective.
+
