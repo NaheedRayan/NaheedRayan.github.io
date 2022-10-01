@@ -6,7 +6,7 @@ subtitle: Student at <a href=https://jnu.ac.bd/ >Jagannath University</a>, Dhaka
 
 profile:
   align: right
-  image: naheed1.jpg
+  image: naheed.jpg
   image_circular: false # crops the image to make it circular
   address: >
     <p>Dhaka</p>
